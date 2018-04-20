@@ -1,0 +1,8 @@
+html {
+  overflow-y: scroll;
+}
+
+.custom__checkboxPosition {
+  position: absolute;
+  margin-top: -6px;
+}
